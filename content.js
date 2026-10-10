@@ -3,7 +3,7 @@ window.SITE_CONTENT = {
   company: 'Speedy Fuel Supplies LLC',
   tagline: 'Dependable Fuel & Logistics Solutions',
   subheading: 'Responsive service for commercial and industrial operations across Florida.',
-  email: 'info@speedyfuelfl.com',
+  email: 'info@speedyfuelus.com',
   phone: '', // Add your business phone number
   location: 'Florida',
   heroImage: '', // e.g. 'assets/hero.jpg'
