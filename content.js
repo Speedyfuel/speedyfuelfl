@@ -24,7 +24,7 @@ window.SITE_CONTENT = {
   aboutText:'Speedy Fuel Supplies LLC is focused on serving business customers with practical fuel and logistics solutions. We value professional service, strong relationships, and clear communication.',
   aboutImage:'',
   leaderTitle:'Leadership',
-  leaderName:'',
+  leaderName:'Helen Gonzales',
   leaderRole:'',
   leaderBio:'Add the founder or leadership biography here.',
   leaderImage:'',
