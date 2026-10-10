@@ -26,7 +26,7 @@ window.SITE_CONTENT = {
   leaderTitle:'Leadership',
   leaderName:'Helen Gonzales',
   leaderRole:'',
-  leaderBio:'Add the founder or leadership biography here.',
+  leaderBio:'MBE/WBE',
   leaderImage:'',
   quoteTitle:'Request a Quote',
   quoteIntro:'Tell us about your needs. Your email application will open with the inquiry details.',
